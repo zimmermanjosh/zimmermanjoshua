@@ -9,8 +9,8 @@ All the things.......
 *   ✉️  You can contact me at [zimmerman.joshua@gmail.com](mailto:zimmerman.joshua@gmail.com)
 *   🚀  I'm currently working on [front-end, javascript](http://zimmermanjosh.github.io/se_project_aroundtheus/)
 *   🧠  I'm learning Typescript, Bamboo, and npm packaging
-*   ⚡  my real name is McGuveyer
-*   
+*   ⚡   I'm a twin (- Identical)
+*   learning a ton -- so much to learn
 ### My Skills
   
 <p align="left">
