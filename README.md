@@ -1,18 +1,19 @@
-Hi 👋 My name is joshua zimerman
+
+Hi 👋 My name is joshua zimmerman
 ================================
 
-All the things.......
+All the things
 ---------------------
 
-*   🌍  I'm based in Dallas, Tx (by way of Chicago)
-*   🖥️  See my portfolio at [OnGitHub](http://https://github.com/zimmermanjosh)
-*   ✉️  You can contact me at [zimmerman.joshua@gmail.com](mailto:zimmerman.joshua@gmail.com)
-*   🚀  I'm currently working on [front-end, javascript](http://zimmermanjosh.github.io/se_project_aroundtheus/)
-*   🧠  I'm learning Typescript, Bamboo, and npm packaging
-*   ⚡   I'm a twin (- Identical)
-*   learning a ton -- so much to learn
+* 🌍  I'm based in Dallas, Tx (by way of Chicago)
+* 🖥️  See my portfolio at [OnGitHub](http://https://github.com/zimmermanjosh)
+* ✉️  You can contact me at [zimmerman.joshua@gmail.com](mailto:zimmerman.joshua@gmail.com)
+* 🚀  I'm currently working on [front-end, javascript](http://zimmermanjosh.github.io/se_project_aroundtheus/)
+* 🧠  I'm learning Typescript, Bamboo, and npm packaging
+* ⚡   ### Skills
+
+
 ### My Skills
-  
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -29,6 +30,18 @@ All the things.......
 ### Socials
 
 <p align="left">
+<a href="https://www.github.com/zimmermanjosh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub logo" />
+</a>
+<a href="https://www.linkedin.com/in/joshuabzimmerman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn logo" />
+</a>
+</p>
+
+### Badges
+
+**My GitHub Stats**
+<a href="http://www.github.com/zimmermanjosh"><img src="https://github-readme-stats.vercel.app/api?username=zimmermanjosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" />
+</a>
+=======
 <a href="https://www.github.com/zimmermanjosh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/joshuabzimmerman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -40,4 +53,4 @@ All the things.......
 <p align="left">
 <a>My GitHub Stats
 </b<ahref="http://www.github.com/zimmermanjosh"><img src="https://github-readme-stats.vercel.app/api?username=zimmermanjosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zimmermanjosh's GitHub stats" /></a> 
- 
+  
