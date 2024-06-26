@@ -1,3 +1,4 @@
+
 Hi 👋 My name is joshua zimmerman
 ================================
 
@@ -27,10 +28,14 @@ All the things
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/zimmermanjosh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<a href="https://www.github.com/zimmermanjosh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub logo" />
 </a>
-<a href="https://www.linkedin.com/in/joshuabzimmerman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<a href="https://www.linkedin.com/in/joshuabzimmerman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn logo" />
 </a>
-</p>### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/zimmermanjosh"><img src="https://github-readme-stats.vercel.app/api?username=zimmermanjosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zimmermanjosh's GitHub stats" />
+</p>
+
+### Badges
+
+**My GitHub Stats**
+<a href="http://www.github.com/zimmermanjosh"><img src="https://github-readme-stats.vercel.app/api?username=zimmermanjosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" />
 </a>
